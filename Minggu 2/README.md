@@ -69,7 +69,6 @@ Kemudian Anda memiliki sistem file virtual (psuedo) /proc yang berada di dalam m
 ## Visualisasi Struktur Direktori sistem Linux
 
 ```
-
 └── /Root
     ├── /boot
     ├── /bin
