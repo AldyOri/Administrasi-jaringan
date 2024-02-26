@@ -99,8 +99,10 @@ Kemudian Anda memiliki sistem file virtual (psuedo) /proc yang berada di dalam m
     │   ├── /usr/local/
     │   │   ├── /usr/local/bin
     │   │   ├── /usr/local/etc
+    │   │   ├── /usr/local/games
     │   │   ├── /usr/local/include
     │   │   ├── /usr/local/sbin
+    │   │   ├── /usr/local/share
     │   │   ├── /usr/local/lib
     │   │   └── /usr/local/src
     │   ├── /usr/share
